@@ -1,2 +1,2 @@
 # Project-01
-uhhh this is my first game project
+Project-01 is gonna be my first game that i made using unity
